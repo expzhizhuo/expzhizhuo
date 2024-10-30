@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## 🤔 Hi,Welcome to my repository of this dish.......
 🔭 I am a network security enthusiasts after 00, welcome to come to exchange technology, take me.![](https://img.shields.io/github/followers/expzhizhuo?style=social)
 
-💬 Ask me about ... My WeChat is 32590908
+💬 Ask me about ... 
 
 ![Metrics](https://metrics.lecoq.io/expzhizhuo?template=classic&isocalendar=1&languages=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&config.timezone=Asia%2FShanghai) 
 
